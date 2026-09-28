@@ -1,0 +1,21 @@
+# Save as .github/workflows/waka.yml in your goelRagga/goelRagga repo
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: false
+          SHOW_TOTAL: true
+          LANG_COUNT: 5
