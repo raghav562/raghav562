@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Raghav%20Goel&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SDE%202%20%40%20Aeroloop%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Applied%20AI&descAlignY=56&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?raghav562type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Raghav%20Goel&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SDE%202%20%40%20Aeroloop%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Applied%20AI&descAlignY=56&descSize=18" width="100%" />
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-goel-b0494b177/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.name@aeroloop.com)
 [![Aeroloop](https://img.shields.io/badge/Aeroloop-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/aeroloop)
-[![Profile Views](https://komarev.com/ghpvc/?username=goelRagga&style=flat-square&color=0ea5e9&label=Profile+views)](https://github.com/goelRagga)
+[![Profile Views](https://komarev.com/ghpvc/?username=raghav562&style=flat-square&color=0ea5e9&label=Profile+views)](https://github.com/raghav562)
 
 </div>
 
@@ -96,9 +96,9 @@ Performance, CI/CD, code reviews and mentoring to help the team ship faster with
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Project One](https://github.com/goelRagga/project-one)** | One line on the problem it solves and the result | Next.js · Node · Postgres |
-| **[AI Assistant](https://github.com/goelRagga/ai-assistant)** | RAG-based assistant over docs with citations | Python · LangChain · OpenAI |
-| **[Project Three](https://github.com/goelRagga/project-three)** | Short, outcome-focused description | React · Express · MongoDB |
+| **[Project One](https://github.com/raghav562/project-one)** | One line on the problem it solves and the result | Next.js · Node · Postgres |
+| **[AI Assistant](https://github.com/raghav562/ai-assistant)** | RAG-based assistant over docs with citations | Python · LangChain · OpenAI |
+| **[Project Three](https://github.com/raghav562/project-three)** | Short, outcome-focused description | React · Express · MongoDB |
 
 <sub>Only public / open-source work is listed. Aeroloop internal work stays internal 🔒</sub>
 
@@ -107,14 +107,14 @@ Performance, CI/CD, code reviews and mentoring to help the team ship faster with
 ### 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=goelRagga&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goelRagga&layout=compact&langs_count=6&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raghav562&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav562&layout=compact&langs_count=6&hide_border=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goelRagga&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghav562&hide_border=true&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goelRagga&bg_color=1a1b27&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghav562&bg_color=1a1b27&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -130,9 +130,9 @@ Performance, CI/CD, code reviews and mentoring to help the team ship faster with
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/goelRagga/goelRagga/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/goelRagga/goelRagga/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/goelRagga/goelRagga/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghav562/raghav562/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raghav562/raghav562/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/raghav562/raghav562/output/github-snake.svg" />
   </picture>
 </div>
 
