@@ -122,7 +122,6 @@ Performance, CI/CD, code reviews and mentoring to help the team ship faster with
 ### ⏱️ This week I spent my time on
 
 <!--START_SECTION:waka-->
-<!-- Auto-filled by the waka-readme GitHub Action. Leave these tags in place. -->
 <!--END_SECTION:waka-->
 
 ---
